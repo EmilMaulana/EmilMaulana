@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/EmilMaulana"><img src="https://img.shields.io/github/followers/EmilMaulana?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/emil-maulana"><img src="https://img.shields.io/badge/-Connect-blue?style=social&logo=Linkedin&logoColor=blue" alt="Connect on LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/emilmaulana"><img src="https://img.shields.io/badge/-Connect-blue?style=social&logo=Linkedin&logoColor=blue" alt="Connect on LinkedIn"></a>
 </p>
 
 **EmilMaulana/EmilMaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
