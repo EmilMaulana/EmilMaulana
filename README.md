@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Open-source projects related to web and mobile app development.
 - 🤔 I’m looking for help with: Optimizing performance and implementing best practices in large-scale web applications.
 - 💬 Ask me about: Laravel, Livewire, Flutter, and API integrations.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emil-maulana), [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emilmaulana), [Email](mailto:emilmaulana10@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding while listening to music and I’m passionate about creating efficient software solutions.
 
